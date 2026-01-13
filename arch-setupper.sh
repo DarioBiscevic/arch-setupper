@@ -36,4 +36,4 @@ cd Tela-icon-theme/
 
 # install packages
 cd $SCRIPT_EXEC_DIR
-yay -S $(cat packages-list.txt)
+yay -S $(cat package-list.txt)
